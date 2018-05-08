@@ -22,7 +22,7 @@ Female DC Power adapter
 ![alt text](0508181715.jpg "Inside the box")
 ![alt text](0508181715a.jpg "Light strip")
 ![alt text](0508181807.jpg "Close up of power connector")
-[Video of the lights in action](https://photos.google.com/photo/AF1QipP0gCIU1-6D_2JXBNMz_ntciFZ7_4Ljo2OmTax-)
+[Video of the lights in action](https://photos.app.goo.gl/eXfG7bFZ4jLRYyn28)
 
 The data line from the NeoPixels to pin 11 on the Arduino (adjust in code if you want to use a different pin).
 
